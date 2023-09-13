@@ -1,0 +1,81 @@
+/* utama */
+.bg-utama {
+    background-color: rgba(248, 252, 250, 1);
+}
+
+.program {
+    color: rgba(20, 24, 62, 1);
+    font-family: "Lora";
+}
+
+.style-parag {
+    color: rgba(112, 112, 112, 1);
+    font-family: "Raleway";
+}
+
+.title-2 {
+    font-family: "Lora";
+    color: rgba(20, 24, 62, 1);
+}
+
+/* layer 2 */
+.berbagi {
+    color: rgba(90, 172, 168, 1);
+}
+
+.bagan-info {
+    font-family: "Raleway";
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(255, 116, 104, 1);
+    border-radius: 6px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.info-posision {
+    transform: translateY(-50%);
+}
+
+.title-bagan {
+    color: rgba(20, 24, 62, 1);
+    font-family: "Raleway";
+    font-size: 23px;
+}
+
+.prog-bg {
+    background-color: rgba(240, 240, 240, 1);
+    height: 1px;
+    width: 100%;
+}
+
+.progres {
+    background-color: rgba(90, 172, 168, 1);
+    width: 49%;
+}
+
+.register {
+    border-color: 1px rgba(90, 172, 168, 1);
+    border-radius: 11px;
+    color: rgba(90, 172, 168, 1);
+}
+
+.prog-bg {
+    width: 100%;
+    background-color: rgba(240, 240, 240, 1);
+    height: 5px;
+}
+
+.progres {
+    background-color: rgba(90, 172, 168, 1);
+    width: 49%;
+    height: 5px;
+}
+
+.posision-persen {
+    position: relative;
+    left: 98%;
+    transform: translateY(-70%);
+
+}
+
+.posision-circle {}
